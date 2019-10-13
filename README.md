@@ -14,6 +14,7 @@
 * [FactoryBean——Spring的扩展点之一](https://mp.weixin.qq.com/s/NewVzdhA_BNq-LtOahxSAQ)
 * [@Autowired注解的实现原理](https://mp.weixin.qq.com/s/qNuGgzPiOha0e1tCW46e8Q)
 * [一次策略设计模式的实际应用](https://mp.weixin.qq.com/s/DOBnL1q6UMpWrcrKVvOkdw)
+* [Spring如何解决循环依赖](https://mp.weixin.qq.com/s/W-GO189Shn0U78j7XHNxHQ)
 * `菜鸟努力中....`
 
 ### Thread源码系列文章链接
