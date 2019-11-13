@@ -27,6 +27,8 @@
 * [公平锁与非公平锁的对比](https://mp.weixin.qq.com/s/hYLpsP_9Oxc9pSx3AGW5TQ)
 * [Condition源码分析](https://mp.weixin.qq.com/s/cb8Xtr1wGorfArzNbfbrrw)
 * [读写锁ReadWriteLock的实现原理](https://mp.weixin.qq.com/s/KDQR4_MaR_NacE8tKfQILA)
+* [Semaphore的源码分析以及使用场景](https://mp.weixin.qq.com/s/zoP6rdG_PyLJ9RflV_DLew)
+* [并发工具类CountDownLatch的源码分析以及使用场景](https://mp.weixin.qq.com/s/2W3nc1G-I78WEb1ABRO5YQ)
 * `菜鸟努力中...`
 
 ### Redis系列文章链接
