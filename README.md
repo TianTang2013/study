@@ -29,6 +29,8 @@
 * [读写锁ReadWriteLock的实现原理](https://mp.weixin.qq.com/s/KDQR4_MaR_NacE8tKfQILA)
 * [Semaphore的源码分析以及使用场景](https://mp.weixin.qq.com/s/zoP6rdG_PyLJ9RflV_DLew)
 * [并发工具类CountDownLatch的源码分析以及使用场景](https://mp.weixin.qq.com/s/2W3nc1G-I78WEb1ABRO5YQ)
+* [并发工具类CyclicBarrier的源码分析以及使用场景](https://mp.weixin.qq.com/s/UooC-Rk1ncyqBDY3po5n7w)
+* [wait()和notify()一定成对出现吗？如何解释Thread.join()](https://mp.weixin.qq.com/s/qj2_x3WGIw7vg9zE-UNIVw)
 * `菜鸟努力中...`
 
 ### Redis系列文章链接
