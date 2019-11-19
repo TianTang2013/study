@@ -31,6 +31,7 @@
 * [并发工具类CountDownLatch的源码分析以及使用场景](https://mp.weixin.qq.com/s/2W3nc1G-I78WEb1ABRO5YQ)
 * [并发工具类CyclicBarrier的源码分析以及使用场景](https://mp.weixin.qq.com/s/UooC-Rk1ncyqBDY3po5n7w)
 * [wait()和notify()一定成对出现吗？如何解释Thread.join()](https://mp.weixin.qq.com/s/qj2_x3WGIw7vg9zE-UNIVw)
+* [线程池ThreadPoolExecutor的实现原理](https://mp.weixin.qq.com/s/q0Qt-ha9ps12c15KMW7NfA)
 * `菜鸟努力中...`
 
 ### Redis系列文章链接
