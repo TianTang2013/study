@@ -33,10 +33,13 @@
 * [wait()和notify()一定成对出现吗？如何解释Thread.join()](https://mp.weixin.qq.com/s/qj2_x3WGIw7vg9zE-UNIVw)
 * [线程池ThreadPoolExecutor的实现原理](https://mp.weixin.qq.com/s/q0Qt-ha9ps12c15KMW7NfA)
 * [为什么《阿里巴巴Java开发手册》上要禁止使用Executors来创建线程池](https://mp.weixin.qq.com/s/EsJv8Uq6PS1PheJxP0HR9w)
+* [并发编程系列之Future —— 最常用的性能优化手段](https://mp.weixin.qq.com/s/4gLjSGvwcuvElfnYRzDnSw)
 * `菜鸟努力中...`
 
 ### Redis系列文章链接
 > 别急，菜鸟正在努力中！！！
 
 ### Netty源码系列文章链接
-> 别急，菜鸟正在努力中！！！
+* [如何从BIO演进到NIO，再到Netty](https://mp.weixin.qq.com/s/zcrclRhgK015FSjtuMZoCg)
+* [Netty源码分析系列之Reactor线程模型](https://mp.weixin.qq.com/s/-aqIwWXYBkTy0dCNy0FtlA)
+* `菜鸟努力中...`
