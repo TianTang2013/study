@@ -34,6 +34,7 @@
 * [线程池ThreadPoolExecutor的实现原理](https://mp.weixin.qq.com/s/q0Qt-ha9ps12c15KMW7NfA)
 * [为什么《阿里巴巴Java开发手册》上要禁止使用Executors来创建线程池](https://mp.weixin.qq.com/s/EsJv8Uq6PS1PheJxP0HR9w)
 * [并发编程系列之Future —— 最常用的性能优化手段](https://mp.weixin.qq.com/s/4gLjSGvwcuvElfnYRzDnSw)
+* [阻塞队列LinkedBlockingQueue实现原理](https://mp.weixin.qq.com/s/CXeEd2RcwO_iky0Q9OkJFA)
 * `菜鸟努力中...`
 
 ### Redis系列文章链接
@@ -42,4 +43,6 @@
 ### Netty源码系列文章链接
 * [如何从BIO演进到NIO，再到Netty](https://mp.weixin.qq.com/s/zcrclRhgK015FSjtuMZoCg)
 * [Netty源码分析系列之Reactor线程模型](https://mp.weixin.qq.com/s/-aqIwWXYBkTy0dCNy0FtlA)
+* [Netty源码分析系列之服务端Channel初始化](https://mp.weixin.qq.com/s/mwlzDmYZP6J_2Fr6TUvxKw)
+* [Netty源码分析系列之服务端Channel注册](https://mp.weixin.qq.com/s/Tw0541dQlPKmEj8VinPucQ)
 * `菜鸟努力中...`
