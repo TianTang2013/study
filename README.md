@@ -45,4 +45,7 @@
 * [Netty源码分析系列之Reactor线程模型](https://mp.weixin.qq.com/s/-aqIwWXYBkTy0dCNy0FtlA)
 * [Netty源码分析系列之服务端Channel初始化](https://mp.weixin.qq.com/s/mwlzDmYZP6J_2Fr6TUvxKw)
 * [Netty源码分析系列之服务端Channel注册](https://mp.weixin.qq.com/s/Tw0541dQlPKmEj8VinPucQ)
+* [Netty源码分析系列之服务端Channel的端口绑定](https://mp.weixin.qq.com/s/p3ZouaQ_x6NgyVMWw4tJ0g)
+* [Netty源码分析系列之NioEventLoop的创建与启动](https://mp.weixin.qq.com/s/qBRY8zl_LBrn3acCaRmEbg)
+*[Netty源码分析系列之NioEventLoop的执行流程](https://mp.weixin.qq.com/s/RId4bKC0lwL_HofyqDV61Q)
 * `菜鸟努力中...`
