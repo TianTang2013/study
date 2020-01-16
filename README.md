@@ -53,5 +53,7 @@
 * [Netty源码分析系列之常用解码器（上）](https://mp.weixin.qq.com/s/K-jzX1Vm5SYJEIrSTazk_g)
 * [Netty源码分析系列之常用解码器（下）——LengthFieldBasedFrameDecoder](https://mp.weixin.qq.com/s/xoMZr6j6QPwGCeqodX49ww)
 * [Netty源码分析系列之writeAndFlush()上](https://mp.weixin.qq.com/s/BBDlOJtJeRIC3S2ioJVknw)
+* [Netty源码分析系列之writeAndFlush()下](https://mp.weixin.qq.com/s/XkTpxPz4V7NXNKbxeu7PhA)
+* [backlog与TCP的三次握手](https://mp.weixin.qq.com/s/7Ddsjk8wSsKgyGTIrZ77uQ)
 
 * `菜鸟努力中...`
