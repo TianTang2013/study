@@ -56,4 +56,16 @@
 * [Netty源码分析系列之writeAndFlush()下](https://mp.weixin.qq.com/s/XkTpxPz4V7NXNKbxeu7PhA)
 * [backlog与TCP的三次握手](https://mp.weixin.qq.com/s/7Ddsjk8wSsKgyGTIrZ77uQ)
 
+### MySQL系列文章链接
+* [redo log —— MySQL宕机时数据不丢失的原理](https://mp.weixin.qq.com/s/0m8E7ha8xWOqd-fQu0AqgQ)
+* [索引数据结构之B-Tree与B+Tree（上篇）](https://mp.weixin.qq.com/s/z_TNLqqJVwYKgb2kBadTwg)
+* [索引数据结构之B-Tree与B+Tree（下篇）](https://mp.weixin.qq.com/s/yLCqkrf1rvp6zJA6S-8sTQ)
+* [MySQL为什么不用数组、哈希表、二叉树等数据结构作为索引呢](https://mp.weixin.qq.com/s/3zpqjT3cgYqYljgL-z0BKw)
+* [MySQL索引的工作原理](https://mp.weixin.qq.com/s/scEl3uU2OGLW6eR-d5SrCQ)
+* [MySQL中order by语句的实现原理以及优化手段](https://mp.weixin.qq.com/s/mnLiji7nDtVfvx9zWo4Hag)
+
+### 数据结构与算法系列
+* [回溯法解决八皇后问题](https://mp.weixin.qq.com/s/Q6UFD72smBbwl765w2kHgA)
+
+
 * `菜鸟努力中...`
