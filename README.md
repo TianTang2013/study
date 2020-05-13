@@ -63,6 +63,7 @@
 * [MySQL为什么不用数组、哈希表、二叉树等数据结构作为索引呢](https://mp.weixin.qq.com/s/3zpqjT3cgYqYljgL-z0BKw)
 * [MySQL索引的工作原理](https://mp.weixin.qq.com/s/scEl3uU2OGLW6eR-d5SrCQ)
 * [MySQL中order by语句的实现原理以及优化手段](https://mp.weixin.qq.com/s/mnLiji7nDtVfvx9zWo4Hag)
+* [为什么《阿里巴巴Java开发手册》中强制要求主键id是自增的？](https://mp.weixin.qq.com/s/v601On0OEqrRL3Hnjx8yQg)
 
 ### 数据结构与算法系列
 * [回溯法解决八皇后问题](https://mp.weixin.qq.com/s/Q6UFD72smBbwl765w2kHgA)
