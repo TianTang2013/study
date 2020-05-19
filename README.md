@@ -64,9 +64,12 @@
 * [MySQL索引的工作原理](https://mp.weixin.qq.com/s/scEl3uU2OGLW6eR-d5SrCQ)
 * [MySQL中order by语句的实现原理以及优化手段](https://mp.weixin.qq.com/s/mnLiji7nDtVfvx9zWo4Hag)
 * [为什么《阿里巴巴Java开发手册》中强制要求主键id是自增的？](https://mp.weixin.qq.com/s/v601On0OEqrRL3Hnjx8yQg)
+* [MySQL是如何对LRU算法进行优化的？又该如何对MySQL进行调优?](https://mp.weixin.qq.com/s/buInxKERJ36eqdQL8BGeeQ)
 
 ### 数据结构与算法系列
 * [回溯法解决八皇后问题](https://mp.weixin.qq.com/s/Q6UFD72smBbwl765w2kHgA)
+* [最短路径问题——迪杰斯特拉算法(Dijkstra)](https://mp.weixin.qq.com/s/v07D1jsVtcztzUb4P8Xd4w)
+* [重温《数据结构与算法》之堆与堆排序](https://mp.weixin.qq.com/s/4_5t-2qn11qC-qh328v3NA)
 
 
 * `菜鸟努力中...`
