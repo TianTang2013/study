@@ -35,6 +35,7 @@
 * [为什么《阿里巴巴Java开发手册》上要禁止使用Executors来创建线程池](https://mp.weixin.qq.com/s/EsJv8Uq6PS1PheJxP0HR9w)
 * [并发编程系列之Future —— 最常用的性能优化手段](https://mp.weixin.qq.com/s/4gLjSGvwcuvElfnYRzDnSw)
 * [阻塞队列LinkedBlockingQueue实现原理](https://mp.weixin.qq.com/s/CXeEd2RcwO_iky0Q9OkJFA)
+* [优先级队列PriorityQueue源码分析](https://mp.weixin.qq.com/s/BHsKftsUU4BDCq7c7Lm6-Q)
 * `菜鸟努力中...`
 
 ### Redis系列文章链接
@@ -70,6 +71,12 @@
 * [回溯法解决八皇后问题](https://mp.weixin.qq.com/s/Q6UFD72smBbwl765w2kHgA)
 * [最短路径问题——迪杰斯特拉算法(Dijkstra)](https://mp.weixin.qq.com/s/v07D1jsVtcztzUb4P8Xd4w)
 * [重温《数据结构与算法》之堆与堆排序](https://mp.weixin.qq.com/s/4_5t-2qn11qC-qh328v3NA)
+
+### JVM系列
+* [一道看了答案都不知道为什么的面试题](https://mp.weixin.qq.com/s/a2OAnyijerklcOv0IyGsZA)
+* [垃圾回收之垃圾标记算法](https://mp.weixin.qq.com/s/oUO3v25l03pOs0XJfrY1_Q)
+* [JVM系列之垃圾收集算法](https://mp.weixin.qq.com/s/gOAhhZr3YbCS6oX-IwGiaQ)
+* [JVM系列之STW、并行与并发、安全点与安全区域](https://mp.weixin.qq.com/s/WKcKlUDL9YGHumG_JR7FiA)
 
 
 * `菜鸟努力中...`
