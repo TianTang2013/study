@@ -77,6 +77,9 @@
 * [垃圾回收之垃圾标记算法](https://mp.weixin.qq.com/s/oUO3v25l03pOs0XJfrY1_Q)
 * [JVM系列之垃圾收集算法](https://mp.weixin.qq.com/s/gOAhhZr3YbCS6oX-IwGiaQ)
 * [JVM系列之STW、并行与并发、安全点与安全区域](https://mp.weixin.qq.com/s/WKcKlUDL9YGHumG_JR7FiA)
+* [JVM系列之经典垃圾回收器（上篇）](https://mp.weixin.qq.com/s/GVabLd4BAZGDBe9xL86k3w)
+* [JVM系列之垃圾回收器（中篇）——G1的运行原理以及调优思路](https://mp.weixin.qq.com/s/7CWbARimO5rFBHq4NtAt5Q)
+* [JVM系列之垃圾回收器（下篇）——Shenandoah垃圾回收器](https://mp.weixin.qq.com/s/J9lOoihkfUKvJpt-7GSxXw)
 
 
 * `菜鸟努力中...`
