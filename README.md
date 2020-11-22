@@ -66,6 +66,10 @@
 * [MySQL中order by语句的实现原理以及优化手段](https://mp.weixin.qq.com/s/mnLiji7nDtVfvx9zWo4Hag)
 * [为什么《阿里巴巴Java开发手册》中强制要求主键id是自增的？](https://mp.weixin.qq.com/s/v601On0OEqrRL3Hnjx8yQg)
 * [MySQL是如何对LRU算法进行优化的？又该如何对MySQL进行调优?](https://mp.weixin.qq.com/s/buInxKERJ36eqdQL8BGeeQ)
+* [数据库中事务的几种隔离级别分别解决了哪些问题](https://mp.weixin.qq.com/s/GSkUvHngUZ0gQjuO4oSwIw)
+* [一文搞懂undo log版本链与ReadView机制如何让事务读取到该读的数据](https://mp.weixin.qq.com/s/OsSQiCR6076bdoUjZKPXPg)
+* [在 MySQL 中是如何通过 MVCC 机制来解决不可重复读和幻读问题的？](https://mp.weixin.qq.com/s/Mq9UcV94mTxi6J5SwthV7g)
+* [在读提交的事务隔离级别下，MVCC 机制是如何工作的？](https://mp.weixin.qq.com/s/QCyzs91AavUD0o23Y4wLjw)
 
 ### 数据结构与算法系列
 * [回溯法解决八皇后问题](https://mp.weixin.qq.com/s/Q6UFD72smBbwl765w2kHgA)
@@ -80,6 +84,7 @@
 * [JVM系列之经典垃圾回收器（上篇）](https://mp.weixin.qq.com/s/GVabLd4BAZGDBe9xL86k3w)
 * [JVM系列之垃圾回收器（中篇）——G1的运行原理以及调优思路](https://mp.weixin.qq.com/s/7CWbARimO5rFBHq4NtAt5Q)
 * [JVM系列之垃圾回收器（下篇）——Shenandoah垃圾回收器](https://mp.weixin.qq.com/s/J9lOoihkfUKvJpt-7GSxXw)
-
+* [JVM系列之垃圾回收器（下篇），最前沿的垃圾回收技术——ZGC](https://mp.weixin.qq.com/s/FkG0iweym0q8gGDx2b8iMg)
+* [用字节码解释try、catch、finally、i++、++i的执行结果](https://mp.weixin.qq.com/s/Fc2yuREFiBi0c65KdJRk2w)
 
 * `菜鸟努力中...`
